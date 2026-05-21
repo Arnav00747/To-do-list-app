@@ -19,6 +19,10 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 - style.css
 - script.js
 
+## 🌐 Live Demo
+
+https://to-do-list-app-livid-beta.vercel.app/
+
 ## 📌 How to Run
 1. Download the repository
 2. Open index.html in browser
